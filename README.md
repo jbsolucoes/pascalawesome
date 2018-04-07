@@ -1,2 +1,4 @@
-# pascalawesome
-Pascal Awesome (Delphi / Lazarus / FPC )
+# Pascal Awesome
+Delphi / Lazarus / FPC
+
+
