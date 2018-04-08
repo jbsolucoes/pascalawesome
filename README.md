@@ -22,22 +22,16 @@ XML/JSON
 *   [NativeXml](https://code.google.com/p/simdesign). This component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
 *   [Chimera](http://code.google.com/p/jsonchimera). Open Source (MIT License) library for Delphi XE2 which provides a fast and cross platform JSON generator/parser (serializer/deserializer) under a license that doesn't suck.
 *   [SynCommons](https://github.com/synopse/mORMot/blob/master/SynCommons.pas). High speed JSON library, using   
-      
-    
+          
     Code:  
     
-    `TDocVariant`
+    `TDocVariant` (custom variant type for storage and access)
     
-     custom variant type for storage and access.
 *   [SynCrossPlatformJSON](https://github.com/synopse/mORMot/blob/master/CrossPlatform/SynCrossPlatformJSON.pas). High speed cross-platform JSON library, using   
-      
-    
+          
     Code:  
     
-    `TDocVariant`
-    
-     custom variant type for storage and access.  
-    
+    `TDocVariant` (custom variant type for storage and access)    
 
 LanguageTools for Pascal and other languages
 
