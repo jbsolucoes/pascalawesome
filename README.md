@@ -100,4 +100,6 @@ UtilitiesUseful dev tools/IDE plugins
 *   [Delphi Dev. Shell Tools](https://github.com/RRUZ/delphi-dev-shell-tools). Windows shell extension with useful tasks for Object Pascal Developers (Delphi, Free Pascal).
 
 
+
+
 Original source inspiration: http://www.delphifan.com Awesome Delphi Components Thread
